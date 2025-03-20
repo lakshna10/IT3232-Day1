@@ -113,3 +113,40 @@ multible products like fruits, vegetables, grocery, etc..
 	- display the avilabe products like price, name, 
 	quantity
 	
+		Output...
+			Products in Store:
+			Fruit: Apple
+			Price: 2.5
+			Quantity: 50
+
+			Vegetable: Carrot
+			Price: 1.2
+			Quantity: 30
+
+			Grocery: Rice
+			Price: 3.0
+			Quantity: 100
+
+			Product Apple updated.
+			Updated Products:
+			Fruit: Apple
+			Price: 2.8
+			Quantity: 60
+
+			Vegetable: Carrot
+			Price: 1.2
+			Quantity: 30
+
+			Grocery: Rice
+			Price: 3.0
+			Quantity: 100
+
+			Product Carrot removed.
+			Products after removal:
+			Fruit: Apple
+			Price: 2.8
+			Quantity: 60
+
+			Grocery: Rice
+			Price: 3.0
+			Quantity: 100
