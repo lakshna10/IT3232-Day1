@@ -26,6 +26,28 @@ output 6 5 4 3 2 1 7 13 12 11 10 9 8
 	-create 5 student objects and store it in 
 	a proper datastructure
 - find the average marks of the students
+	
+	output....
+			name John
+			regno A001
+			average 82.4
+
+			name Josh
+			regno A002
+			average 82.8
+
+			name Alice
+			regno A003
+			average 70.4
+
+			name Peter
+			regno A004
+			average 81.8
+
+			name Mark
+			regno A005
+			average 85.2
+
 
 7) implement classes for a Library
 There are diffrent type of books are available in the
