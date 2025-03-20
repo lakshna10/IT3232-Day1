@@ -6,15 +6,18 @@
 		1 2 3 4 5 6 7 8 9 10
 3)print the numbers in reverse
 	output....
-		
+		10 9 8 7 6 5 4 3 2 1 
 4)print the odd numbers between 1 to 20
+	output....
 5)Reverse the left and right numbers like
 You must use only a loop
 input  9
 output 4 3 2 1 5 9 8 7 6
-
 input 13
 output 6 5 4 3 2 1 7 13 12 11 10 9 8
+
+	output....
+		
 
 6) Create a student class
 	-create 5 student objects and store it in 
