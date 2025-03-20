@@ -55,6 +55,58 @@ library like Printed books, E books, and Audio books
 
 You must use inhertance, polymorphism, encapuslation...
 
+		Output...
+			Printed Book: 
+			Title: Java Programming
+			Author: John Doe
+			Type: Printed
+
+			E-Book: 
+			Title: Python for Data Science
+			Author: Jane Smith
+			File Size: 15MB
+			Type: E-Book
+
+			Audio Book: 
+			Title: C++ Basics
+			Author: Alice Brown
+			Duration: 5.2 hours
+			Type: Audio Book
+
+			Printed Book: 
+			Title: The Great Gatsby
+			Author: F. Scott Fitzgerald
+			Type: Printed
+
+			Printed Book: 
+			Title: To Kill a Mockingbird
+			Author: Harper Lee
+			Type: Printed
+
+			E-Book: 
+			Title: Data Science for Beginners
+			Author: Michael Lee
+			File Size: 20MB
+			Type: E-Book
+
+			E-Book: 
+			Title: Introduction to Machine Learning
+			Author: Sarah Black
+			File Size: 25MB
+			Type: E-Book
+
+			Audio Book: 
+			Title: The Catcher in the Rye
+			Author: J.D. Salinger
+			Duration: 7.5 hours
+			Type: Audio Book
+
+			Audio Book: 
+			Title: 1984
+			Author: George Orwell
+			Duration: 8.0 hours
+			Type: Audio Book
+
 8) implement classes for the given scenario:
 	- A reatail store which can store,edit,and delete 
 multible products like fruits, vegetables, grocery, etc..
