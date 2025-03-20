@@ -1,12 +1,15 @@
 1)Print a mesage
 	output....
 		Hello, this is a basic Java program!
+  
 2)print numbers from 1 to 10
 	output....
 		1 2 3 4 5 6 7 8 9 10
+  
 3)print the numbers in reverse
 	output....
 		10 9 8 7 6 5 4 3 2 1 
+  
 4)print the odd numbers between 1 to 20
 	output....
 		1 3 5 7 9 11 13 15 17 19 
